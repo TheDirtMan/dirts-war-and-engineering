@@ -1,11 +1,15 @@
-# v1.0.1
+# v2.0.0
 
 ### Changelog
-- Added Mekanism for air
+- Air should work now
+- Create is now v6
+- Clockwork boiling point
+- Cooler electricity as an option
+- Pretty big update but not a huge log, whatever
 
 ### Notes
-- Ask any questions about engineering you have to be (preferably when I'm online)
-- Make sure you enable all of the resource packs, they improve the game a lot! The order sort of matters, so I've included a screenshot of the stuff that does (next message). You can replace the CMG Parade Protocol with CMG Steel Signal depending on the theme of your build.
+- Ask me any questions about engineering you have (preferably when I'm online)
+- Make sure you enable all of the resource packs, they improve the game a lot! Order sort of matters, ask me if you don't know how.
 
 
 Also closed source bc too big for github
